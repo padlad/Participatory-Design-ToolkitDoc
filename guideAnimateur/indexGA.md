@@ -61,9 +61,11 @@ Cette phase prend un temps certain (quelques dizaines de minutes) mais doit êtr
 ### Phase 3 : exploration des cas d'usage
 Durant cette phase, le groupe réfléchit à comment il souhaite interagir avec les données, dans un esprit de sensemaking. Il documente le déroulement des réflexions et des interactions à organiser, et les hypothèses sous-jacentes. Pour chaque étape du raisonnement, il crée une fiche spécifique.
 
-
 ### Phase 4 : création de panneau/écran wireframe
 Pour chaque étape significative des cas d'usages, le groupe est invité à présenter un panneau/écran pour supporter l'étape de sensemaking.
+
+Notons que les phases 3 et 4 peuvent s'entrelacer. Les participants pouvant être motivés pour dessiner directement leur panneau juste après l'avoir décrit.
+De manière générale, toute étape peut être révisée à tout instant si le groupe décide que cela les aide à clarifier leur travail. 
 
 # Phase 5 : Présentation croisée et bilan
 Après ces deux étapes de création, les participants prennent le temps de synthétiser leur résultat et les concepts retenus. Si plusieurs groupes sont présents, les différents groupes peuvent faire une restitution croisée. Cette étape permet de faire une mise en commun des propositions, de renforcer la dynamique de groupe, et de susciter une synthèse permettant encore d'affiner la proposition.
