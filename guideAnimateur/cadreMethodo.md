@@ -42,7 +42,7 @@ Différentes fiches sont proposées pour encourager les échanges et pour recuei
 Les participants doivent avoir l'impression de bien  connaitre leur utilisateur "idéalisé", sans pour autant qu'il existe forcément réellement.  
 * **Fiche "Objet du TBA"** - permet de préciser à quoi va servir ce TBA, quelles seront les décisions à prendre, et dans quel contexte il sera utilisé.
 * **Fiches étapes** - ces fiches permettent de documenter les différentes étapes permettant de découvrir, d'analyser et de donner du sens et de réagir à une situation donnée. Ne pas hésiter à indiquer quels raisonnements sont à l'oeuvre, et leurs manifestations par des interactions avec des données.
-* **Fiches panneaux** - ces fiches correspondent à des morceaux de TBA, des affichages pertinents pour aider à la réflexion, avec lesquels l'utilisateur peur interagir. Elles reprennent les formes classiques de techniques dites "wireframe".
+* **Fiches panneaux** - ces fiches correspondent à des morceaux de TBA, des affichages pertinents pour aider à la réflexion, avec lesquels l'utilisateur peur interagir. Elles reprennent les formes classiques de techniques dites "wireframe" ou "mockups".
 
 ### Des outils pour soutenir la réflexion
 Pour faciliter la réflexion et l'inspiration des participants trois types de cartes sont proposées aux participants.
@@ -53,6 +53,11 @@ Pour faciliter la réflexion et l'inspiration des participants trois types de ca
 ## Quelques conseils de visualisation
 
 > - [ ] indiquer ici quelques bonnes pratiques de visualisation et des choix de références à la [Jivet2020]
+
+Voir aussi https://dokumen.tips/education/learning-analytics-dashboards.html
+ou
+Information Dashboard Design: The Effective Visual Communication of Data
+Stephen Few
 
 ## Utiliser le TBA
 
@@ -69,4 +74,4 @@ Tels que proposé, cet atelier a un intérêt certain pour l'utilisateur, puisqu
 Si les besoins sont repris par un concepteur de TBA, ils pourront de plus bénéficier d'un nouvel outil pour être plus efficaces.
 
 Les initiateurs de cet atelier et des outils liés font de plus une collecte des différents TBA souhaités ou existants. N'hésitez pas à expliciter un TBA existant avec ces outils, et à leur faire parvenir les résultats de cette analyse ou de vos ateliers pour alimenter la collecte, et permettre le partage d'idées nouvelles.
-- [ ] site en construction : https://padlad.github.io/ 
+- [ ] site en construction : https://padlad.github.io/
