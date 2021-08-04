@@ -4,10 +4,7 @@ L'objectif de cette méthode est de permettre de mieux comprendre et de capturer
 
 ## Qu'est ce qu'un Tableau de Bord d'Apprentissage ?
 
-Un tableau de bord d’apprentissage est ainsi un affichage
-unique qui regroupe différents indicateurs sur l’apprenant, le(s)
-processus d’apprentissage et/ou le(s) contexte(s) d’apprentissage
-en une ou plusieurs visualisations [Schwendimann et al. 2017].
+Un tableau de bord d’apprentissage est ainsi un affichage unique qui regroupe différents indicateurs sur l’apprenant, le(s) processus d’apprentissage et/ou le(s) contexte(s) d’apprentissage en une ou plusieurs visualisations [Schwendimann et al. 2017].
 
 D'un point de vue centré utilisateur, la question principale est de définir les usages de tels tableaux de bord. Pourquoi le consulter ? Quelles informations me sont utiles et à quelles fins ? On passe alors d'un regroupement d'indicateurs arbitraire à un support à la réflexion (au sens sensemaking) d'utilisateurs.
 
@@ -84,7 +81,7 @@ Ces éléments peuvent apparaitre préalablement, ou dans l'exploration des cas 
 ## Conseils pour plus d'efficacité du Tableau
 
 ### Simplifier la visualisation
-reprendre canons de visual analytics 
+reprendre canons de visual analytics
 ### Présenter l'information de manière à engager l'utilisateur
 Voir [Jivet et al. 2020]
 ### Créer un contexte favorable à l'exploitation de l'information
@@ -92,6 +89,7 @@ Voir [Jivet et al. 2020]
 - capacité d'agir - appropriation
 * Voir [Wise 2014]
 ## Capturer les besoins - une démarche participative
+
 
 Définir un avatar :
 * Qualifier l'utilisateur
