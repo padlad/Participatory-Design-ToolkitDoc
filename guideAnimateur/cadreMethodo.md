@@ -53,6 +53,8 @@ Pour faciliter la réflexion et l'inspiration des participants trois types de ca
 ## Quelques conseils de visualisation
 
 > - [ ] indiquer ici quelques bonnes pratiques de visualisation et des choix de références à la [Jivet2020]
+- [ ] [Dashboard Design Best Practices – 4 Key Principles](https://www.sisense.com/blog/4-design-principles-creating-better-dashboards/)
+proposé par [Cours BI - conception de tableaux de bord - Laurent Brisson](https://formations.imt-atlantique.fr/bi/bi_tableaux_de_bord_conception.html)
 
 Voir aussi https://dokumen.tips/education/learning-analytics-dashboards.html
 ou
