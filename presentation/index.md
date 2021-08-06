@@ -59,8 +59,8 @@ La consultation d'un tableau de bord est d'abord informative, et permet d'explic
 
 Pour exprimer ces différents éléments, nous reprenons le modèle proposé par [Lycett et Marshan 2016] qui intègre 3 états similaires à ceux proposés par [Endsley 1995] en termes de consience de la situation (*Situation Awareness*) et la manipulation d'un cadre de référence au travers de manipulations de concepts similaire à celle proposée par [Klein et al. 2006].
 
-Mettre figure 15 Conceptual Sensemaking Model [Lycett et Marshan 2016] (la traduire en français)
-<img src="https://user-images.githubusercontent.com/1502610/128511637-5f9f0c5a-c442-4a98-a8ab-8433cfe5e8ba.png" alt="drawing" width="600"/>
+La figure ci-dessous représente le *Conceptual Sensemaking Model* introduit dans [Lycett et Marshan 2016]
+<img src="https://user-images.githubusercontent.com/1502610/128531117-853bea3b-2935-47a4-a40e-01fdbbe8af6c.png" alt="drawing" width="600"/>
 
 
 Ce modèle nous permet d'expliciter différents éléments pouvant contribuer à concevoir et classifier un TBA :
