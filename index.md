@@ -8,7 +8,7 @@ un guide animateur en cours de construction
 
 Les concept sur lesquels nous nous appuyons
 * [Quelques repères dans la littérature](presentation/)
-* [ébauche de glossaire](presentation/glossaire.html)
+* [ébauche de glossaire](presentation/glossaire.md)
 
  * [Description des outils](outil/outils.md)
 
