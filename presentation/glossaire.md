@@ -19,7 +19,7 @@
     * Comprehension
     * Projection
 * **La construction du sens (Sensemaking)** est le processus de création d'une conscience et d'une compréhension de la situation pour soutenir la prise de décision (Klein et al., 2007)
-* **Data Frames** - cadre conceptuel de réference - schéma cognitif. Selon Klein, le but du cadre est de 
+* **Data Frames** - cadre conceptuel de réference - schéma cognitif. Selon Klein, le but du frame est de 
 1. définir les éléments de la situation, 
 2. décrire l'importance de ces éléments, 
 3. décrire les relations existant entre ces éléments
