@@ -1,6 +1,9 @@
 # Participatory Design Toolkit  ([French version](../))
+This repository contains the proposal for a renewed version of the participatory design kit.
 
-## Work in progress
+The initial version was developed in the framework of the HUBBLE project and published in 2018, and initiated a collective work proposing a method initially called PArticipative Design of Dashboard for Learning in Education (PADDLE) method.
+
+## Ongoing Work
 
 A facilitator's guide under construction
 * [Facilitator's guide](guideAnimateur/indexGA.html)
@@ -12,9 +15,6 @@ The concepts on which we rely
 
  * [Description of the tools](outil/outils.md)
 
-This repository contains the proposal for a renewed version of the participatory design kit.
-
-The initial version was developed in the framework of the HUBBLE project and published in 2018, and initiated a collective work proposing a method initially called PArticipative Design of Dashboard for Learning in Education (PADDLE) method.
 
 All the proposed contents are licensed under the Creative Commons CC-by-SA 4.0 license
 
