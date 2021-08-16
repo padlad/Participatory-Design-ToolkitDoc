@@ -1,6 +1,6 @@
 # Participatory Design Toolkit ([English version](en/))
 
-## Travail en cours (sorry, currently in french)
+## Travail en cours
 
 un guide animateur en cours de construction
 * [Guide d'animation](guideAnimateur/indexGA.html)
