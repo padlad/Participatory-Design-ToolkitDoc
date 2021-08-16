@@ -4,14 +4,14 @@
 * Learner - we prefer to use the term learner, as we do not prejudge whether the TBA is for students, high school students, college students, continuing education professionals, returnees, self-starters, etc.
 
 ## Dashboard
-* Learning Analytics Dashboard
-* Indicator - we'll more spontaneously talk about data
-* Visualization
-* Panel
-* Screen / frame support / 
-* Pannel versus Screen - panel corresponding to a screen or part of a screen
+* Learning Analytics Dashboard (**fr.** *Tableau de bord d'apprentissage*)
+* Indicator (**fr.** *Indicateur*) - on parlera plus spontanément de données
+* Visualization (**fr.** *Visualisation*)
+* Panel (**fr.** *Panneau*)
+* Screen / Frame support (**fr.** *Ecran*) 
+   * Pannel versus Screen - panneau correspondant à un écran ou une partie d'écran
 
-# Awareness, Sensemaking and decision-making
+# Cognitive activities and states related to learning
 * Situational awareness is knowing what is happening in the environment and assessing its implications for the present and future (Endsley, 1995)
   * Situational awareness is the perception of the elements of an environment in a volume of time and space, the understanding of their meaning and the projection of their state into the near future*.
   ![image](https://user-images.githubusercontent.com/1502610/128497229-2bfa595d-1683-495d-a7af-02aee1268959.png)
