@@ -1,5 +1,5 @@
 # Participatory Design Toolkit 
-<div style="position:absolute; right:-30px; top: 0 ; font-size: large;">
+<div style="position:absolute; right:0px; top: 0 ; font-size: large;">
 <strong><a href='./..'>Version française</a></strong>
 </div>
 

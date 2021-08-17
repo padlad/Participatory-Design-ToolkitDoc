@@ -1,7 +1,8 @@
-# Kit de Conception Participative 
-<div style="position:absolute; right:-30px; top: 0 ; font-size: large;">
+<div style="position:absolute; right:0px; top: 0 ; font-size: large;">
 <strong><a href='./en'>English version</a></strong>
 </div>
+
+# Kit de Conception Participative 
 Ce dépôt contient la proposition d'une version renouvelée du kit de conception participative.
 
 Pour des facilités de rédaction, les documents sont en français, avec des expressions en anglais, lorsque leur traduction ne fait pas consensus.

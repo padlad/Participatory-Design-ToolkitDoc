@@ -1,5 +1,11 @@
-# Termes principaux à préciser
+<div style="position:absolute; left:0px; top: 0 ; font-size: large;">
+<strong><a href='../'>Accueil</a></strong>
+</div>
+<div style="position:absolute; right:0px; top: 0 ; font-size: large;">
+<strong><a href='../en/presentation/glossaire.html'>English version</a></strong>
+</div>
 
+# Termes principaux à préciser
 ## Apprentissage humain
 * Apprenant - nous utilisons de préférence le terme apprenant, puisque nous ne préjugeons pas si le TBA concerne des élèves, des collgiens, des lycéens, des étudiants, des professionnels en formation continue, des personnes en reconversion, des autodidactes ...
 

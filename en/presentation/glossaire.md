@@ -1,3 +1,10 @@
+<div style="position:absolute; left:0px; top: 0 ; font-size: large;">
+<strong><a href='../'>Home</a></strong>
+</div>
+<div style="position:absolute; right:0px; top: 0 ; font-size: large;">
+<strong><a href='../../presentation/glossaire.html'>Version française</a></strong>
+</div>
+
 # Main terms to be specified
 
 ## Learning
