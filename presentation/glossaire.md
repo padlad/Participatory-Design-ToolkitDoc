@@ -22,7 +22,7 @@ Les visualisation sont des représentations spatiales des indicateurs de manièr
 * **Conscience de la situation** (en. Situational awareness) consiste à connaître ce qui se passe dans l'environnement et à évaluer ses implications pour le présent et l'avenir (Endsley, 1995)
   * *La conscience de la situation est la perception des éléments d’un environnement dans un volume de temps et d’espace, la compréhension de leur signification et la projection de leur état dans un futur proche*
   
-<img src="/figs/sa_fr.png" alt="drawing" width="400"/>
+<img src="../figs/sa_fr.png" alt="drawing" width="400"/>
 
   * Perception
      * Comprehension

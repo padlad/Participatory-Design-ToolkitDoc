@@ -5,12 +5,10 @@
 <strong><a href='../../presentation/glossaire.html'>Version française</a></strong>
 </div>
 
-# Main terms to be specified
-
-## Learning
+# Learning
 * Learner - we prefer to use the term learner, as we do not prejudge whether the TBA is for students, high school students, college students, continuing education professionals, returnees, self-starters, etc.
 
-## Dashboard
+# Dashboard
 * Learning Analytics Dashboard (**fr.** *Tableau de bord d'apprentissage*)
 * Indicator (**fr.** *Indicateur*) - on parlera plus spontanément de données
 * Visualization (**fr.** *Visualisation*)
@@ -27,7 +25,7 @@
 
 * **Situational awareness** is knowing what is happening in the environment and assessing its implications for the present and future. According to <sup>[Endsley 1995](#Endsley1995)</sup>: Situational awareness is the perception of the elements of an environment in a volume of time and space, the understanding of their meaning and the projection of their state into the near future*.
   
-  <img src="/figs/sa_fr.png" alt="drawing" width="400"/>
+  <img src="../../figs/sa_fr.png" alt="drawing" width="400"/>
     * Perception
     * Comprehension
     * Projection
