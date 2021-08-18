@@ -25,7 +25,7 @@
 
 * **Situational awareness** is knowing what is happening in the environment and assessing its implications for the present and future. According to <sup>[Endsley 1995](#Endsley1995)</sup>: Situational awareness is the perception of the elements of an environment in a volume of time and space, the understanding of their meaning and the projection of their state into the near future*.
   
-  <img src="../../figs/sa_fr.png" alt="drawing" width="400"/>
+  <img src="../../figs/sa_fr.png" alt="Situational awareness" width="400"/>
     * Perception
     * Comprehension
     * Projection
@@ -39,8 +39,8 @@
 * Data** - (in the context of *Sensemaking*) 
 * Frame of Reference 
 * **Cycle (activities) of Sensemaking** - 
-<img src="https://user-images.githubusercontent.com/1502610/128508670-99884909-5eee-40b5-b930-569b5a22413f.png" alt="drawing" width="400"/>
 
+<img src="../../figs/sm.png" alt="Sensemaking" width="400"/>
 
 
 # Design
