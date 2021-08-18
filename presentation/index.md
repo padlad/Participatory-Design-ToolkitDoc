@@ -1,3 +1,10 @@
+<div style="position:absolute; left:0px; top: 0 ; font-size: large;">
+<strong><a href='../'>Accueil</a></strong>
+</div>
+<div style="position:absolute; right:0px; top: 0 ; font-size: large;">
+<strong><a href='../en/presentation/'>English version</a></strong>
+</div>
+
 # Présentation de la méthode
 
 L'objectif de cette méthode est de permettre de mieux comprendre et de capturer les besoins des différents utilisateurs de Tableaux de Bords d'Apprentissage (TBA ou *Learning Analytics Dahsboards* LAD).
@@ -60,7 +67,7 @@ La consultation d'un tableau de bord est d'abord informative, et permet d'explic
 Pour exprimer ces différents éléments, nous reprenons le modèle proposé par [Lycett et Marshan 2016] qui intègre 3 états similaires à ceux proposés par [Endsley 1995] en termes de consience de la situation (*Situation Awareness*) et la manipulation d'un cadre de référence au travers de manipulations de concepts similaire à celle proposée par [Klein et al. 2006].
 
 La figure ci-dessous représente le *Conceptual Sensemaking Model* introduit dans [Lycett et Marshan 2016]
-<img src="https://user-images.githubusercontent.com/1502610/128531117-853bea3b-2935-47a4-a40e-01fdbbe8af6c.png" alt="drawing" width="600"/>
+<img src="/figs/lycett_fr.png" alt="Conceptual Sensemaking Model " width="600"/>
 
 
 Ce modèle nous permet d'expliciter différents éléments pouvant contribuer à concevoir et classifier un TBA :

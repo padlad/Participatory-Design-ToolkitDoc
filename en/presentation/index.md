@@ -1,3 +1,10 @@
+<div style="position:absolute; left:0px; top: 0 ; font-size: large;">
+<strong><a href='../'>Home</a></strong>
+</div>
+<div style="position:absolute; right:0px; top: 0 ; font-size: large;">
+<strong><a href='../../presentation/'>Version française</a></strong>
+</div>
+
 # Presentation of the method
 
 The objective of this method is to better understand and capture the needs of different users of Learning Dashboards (LAD).
@@ -60,7 +67,7 @@ The consultation of a dashboard is first of all informative, and allows to expla
 To express these different elements, we use the model proposed by [Lycett and Marshan 2016] which integrates 3 states similar to those proposed by [Endsley 1995] in terms of *Situation Awareness* and the manipulation of a frame of reference through concept manipulations similar to that proposed by [Klein et al. 2006].
 
 The figure below represents the *Conceptual Sensemaking Model* introduced in [Lycett and Marshan 2016]
-<img src="https://user-images.githubusercontent.com/1502610/128531117-853bea3b-2935-47a4-a40e-01fdbbe8af6c.png" alt="drawing" width="600"/>
+<img src="/figs/lycett.png" alt="Conceptual Sensemaking Model " width="600"/>
 
 
 This model allows us to clarify different elements that can contribute to the design and classification of a TBA:

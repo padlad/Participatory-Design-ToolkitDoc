@@ -19,9 +19,15 @@
    * Pannel versus Screen - panneau correspondant à un écran ou une partie d'écran
 
 # Cognitive activities and states related to learning
-* Situational awareness is knowing what is happening in the environment and assessing its implications for the present and future (Endsley, 1995)
-  * Situational awareness is the perception of the elements of an environment in a volume of time and space, the understanding of their meaning and the projection of their state into the near future*.
-  ![image](https://user-images.githubusercontent.com/1502610/128497229-2bfa595d-1683-495d-a7af-02aee1268959.png)
+* **Awareness** : One of the best-known definitions for awareness is provided by <sup>[Dourish and Belloti (1992)](#Dourish1992)</sup>: awareness is an understanding of the activities of others, which provides a context for your own activity. <sup>[Gutwin and Greenberg (1999)](#Gutwin1999)</sup> state that awareness:
+   * Is knowledge about a state of the work environment in a limited portion of time and space.
+   * Provides knowledge about changes in that environment.
+   * Is maintained by all the interactions between the team-mates and the environment.
+   * Is a part of an activity (completing a task, working on something). Maintaining awareness is not the purpose of an activity. Awareness is used to complete a task.
+
+* **Situational awareness** is knowing what is happening in the environment and assessing its implications for the present and future. According to <sup>[Endsley 1995](#Endsley1995)</sup>: Situational awareness is the perception of the elements of an environment in a volume of time and space, the understanding of their meaning and the projection of their state into the near future*.
+  
+  <img src="/figs/sa_fr.png" alt="drawing" width="400"/>
     * Perception
     * Comprehension
     * Projection
@@ -43,3 +49,9 @@
 * Participatory Design
 * Design space: "the universe of all possible design choices"
 
+# Refernces
+(http://edutechwiki.unige.ch/en/Awareness)
+ 
+* <a name="Dourish1992"/> Dourish, P. & Bellotti. V. (1992). Awareness and coordination in shared workspaces. In J. Turner & R. Kraut (Eds.), Proceedings of ACM CSCW'92 Conference on Computer Supported Cooperative Work, 107-114, Toronto, Canada.
+* <a name="Endsley1995"/> Endsley, M. R. (1995). Measurement of situation awareness in dynamic systems. Human factors, 37(1), 65-84.
+* <a name="Gutwin1999"/>Gutwin, C. & Greenberg, S. (1999). A framework of awareness for small groups in sharedworkspace groupware. (Technical Report 99-1), Department of Computer Science, University of Saskatchewan, Canada.
