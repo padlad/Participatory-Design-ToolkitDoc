@@ -48,7 +48,7 @@
 * Participatory Design
 * Design space: "the universe of all possible design choices"
 
-# Refernces
+# References
 (http://edutechwiki.unige.ch/en/Awareness)
  
 * <a name="Dourish1992"/> Dourish, P. & Bellotti. V. (1992). Awareness and coordination in shared workspaces. In J. Turner & R. Kraut (Eds.), Proceedings of ACM CSCW'92 Conference on Computer Supported Cooperative Work, 107-114, Toronto, Canada.
