@@ -9,7 +9,9 @@
 * Learner - we prefer to use the term learner, as we do not prejudge whether the TBA is for students, high school students, college students, continuing education professionals, returnees, self-starters, etc.
 
 # Dashboard
-* Learning Analytics Dashboard (**fr.** *Tableau de bord d'apprentissage*)
+* Learning Analytics Dashboard (**fr.** *Tableau de bord d'apprentissage*) Learning analytics dashboards are graphical systems designed to support the exploratory or decision-making process of learning analysis. They incorporate graphical representation of indicators related to specific aspects of interest of learning. They also integrate interaction features that accompany to the user/analyst during the different phases of data exploration, situation investigation and even decision making. Moreover, dashboards must be adaptive and contextual to allow the users to compose on the fly relevant information and to generate appropriate displays at the appropriate moment in the course of the educational situation(s)".
+
+Translated with www.DeepL.com/Translator (free version)
 * Indicator (**fr.** *Indicateur*) - on parlera plus spontanément de données
 * Visualization (**fr.** *Visualisation*)
 * Panel (**fr.** *Panneau*)
