@@ -11,12 +11,12 @@
 # Dashboard
 * Learning Analytics Dashboard (**fr.** *Tableau de bord d'apprentissage*) Learning analytics dashboards are graphical systems designed to support the exploratory or decision-making process of learning analysis. They incorporate graphical representation of indicators related to specific aspects of interest of learning. They also integrate interaction features that accompany to the user/analyst during the different phases of data exploration, situation investigation and even decision making. Moreover, dashboards must be adaptive and contextual to allow the users to compose on the fly relevant information and to generate appropriate displays at the appropriate moment in the course of the educational situation(s)".
 
-Translated with www.DeepL.com/Translator (free version)
-* Indicator (**fr.** *Indicateur*) - on parlera plus spontanément de données
-* Visualization (**fr.** *Visualisation*)
+
+* Indicator (**fr.** *Indicateur*) -  An indicator is a variable computed from observed (tracked, logged) data, possibly augmented with various other unobserved information (e.g. profile or context data), by means of transformation functions (e.g. abstraction, combination, synthesis, inference). Because the main purpose of indicators is to provide knowledge, we will more often speak of them is terms of *data*.
+* Visualization (**fr.** *Visualisation*) - Visualizations are spatial displays of indicators in textual or graphical form. These representations are not just simple graphical components but result from a correspondence between an indicator and at least one appropriate graphical representation.
 * Panel (**fr.** *Panneau*)
 * Screen / Frame support (**fr.** *Ecran*) 
-   * Pannel versus Screen - panneau correspondant à un écran ou une partie d'écran
+   * Panel versus Screen - panneau correspondant à un écran ou une partie d'écran
 
 # Cognitive activities and states related to learning
 * **Awareness** : One of the best-known definitions for awareness is provided by <sup>[Dourish and Belloti (1992)](#Dourish1992)</sup>: awareness is an understanding of the activities of others, which provides a context for your own activity. <sup>[Gutwin and Greenberg (1999)](#Gutwin1999)</sup> state that awareness:
@@ -55,4 +55,4 @@ Translated with www.DeepL.com/Translator (free version)
  
 * <a name="Dourish1992"/> Dourish, P. & Bellotti. V. (1992). Awareness and coordination in shared workspaces. In J. Turner & R. Kraut (Eds.), Proceedings of ACM CSCW'92 Conference on Computer Supported Cooperative Work, 107-114, Toronto, Canada.
 * <a name="Endsley1995"/> Endsley, M. R. (1995). Measurement of situation awareness in dynamic systems. Human factors, 37(1), 65-84.
-* <a name="Gutwin1999"/>Gutwin, C. & Greenberg, S. (1999). A framework of awareness for small groups in sharedworkspace groupware. (Technical Report 99-1), Department of Computer Science, University of Saskatchewan, Canada.
+* <a name="Gutwin1999"/>Gutwin, C. & Greenberg, S. (1999). A framework of awareness for small groups in shared workspace groupware. (Technical Report 99-1), Department of Computer Science, University of Saskatchewan, Canada.

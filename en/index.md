@@ -19,6 +19,6 @@ The concepts on which we rely
 
  * [Description of the tools](outil/outils.md)
 
-
+<hr/>
 All the proposed contents are licensed under the Creative Commons CC-by-SA 4.0 license
 

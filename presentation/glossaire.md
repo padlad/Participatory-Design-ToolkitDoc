@@ -12,7 +12,7 @@
 * Tableau de bord d'apprentissage (**en.** *Learning Analytics Dashboard*): Les tableaux de bords d'apprentissage sont des dispositifs de soutien au processus exploratoire ou décisionnel d'analyse de l'apprentissage par la représentation graphique d'indicateurs relatifs à des aspects particuliers de cet apprentissage. Ces dispositifs offrent des moyens d'interactions qui accompagnent l'utilisateur/analyste durant les différentes phases d'exploration, d'investigation voire de décision. "Les tableaux de bords doivent être adaptatifs et contextuels. Il s’agit de composer à la volée des regroupements d’informations pertinentes et de générer ces tableaux de bord au moment adéquat dans le déroulement de la (ou des) situation(s) pédagogique(s)".
 * Indicateur (**en.** *Indicator*) -  Un indicateur est une variable calculée à partir de données observées éventuellement augmentées avec diverses autres informations non observées (par exemple, des données de profil ou du contexte), moyennant des fonctions de transformation (par exemple d'abstraction, de combinaison, de synthèse, d'inférence). Parce que ce les indicateurs ont pour principales missions de fournir une connaissance, nous parlerons plus spntanément de données.
 * Visualisation (**en.** *Visualization*)
-Les visualisation sont des représentations spatiales des indicateurs de manière textuelle ou graphique. Ces éléments ne sont pas que de simples composants graphiques mais résultent d'une correspondance entre un indicateur et au moins une représentation graphique appropriée.
+Les visualisation sont des rendus spatiaux de manière textuelle ou graphique d'indicateurs. Ces éléments ne sont pas que de simples composants graphiques mais résultent d'une correspondance entre un indicateur et au moins une représentation graphique appropriée.
 
 * Panneau (**en.** *Panel*)
 * Ecran (**en.** *Screen / Frame support*) 
@@ -41,7 +41,7 @@ Les visualisation sont des représentations spatiales des indicateurs de manièr
 
 
 
-# Design
+# Conception de tableaux de bord
 * Conception participative
 * Espace de conception : “l'univers de tous les choix de conception possibles”
 
