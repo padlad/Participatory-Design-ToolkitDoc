@@ -13,10 +13,8 @@
 
 # Dashboard
 * Learning Analytics Dashboard (**fr.** *Tableau de bord d'apprentissage*) Learning analytics dashboards are graphical systems designed to support the exploratory or decision-making process of learning analysis. They incorporate graphical representation of indicators related to specific aspects of interest of learning. They also integrate interaction features that accompany to the user/analyst during the different phases of data exploration, situation investigation and even decision making. Moreover, dashboards must be adaptive and contextual to allow the users to compose on the fly relevant information and to generate appropriate displays at the appropriate moment in the course of the educational situation(s)".
-
-
 * Indicator (**fr.** *Indicateur*) -  An indicator is a variable computed from observed (tracked, logged) data, possibly augmented with various other unobserved information (e.g. profile or context data), by means of transformation functions (e.g. abstraction, combination, synthesis, inference). Because the main purpose of indicators is to provide knowledge, we will more often speak of them is terms of *data*.
-* Visualization (**fr.** *Visualisation*) - Visualizations are spatial displays of indicators in textual or graphical form. These representations are not just simple graphical components but result from a correspondence between an indicator and at least one appropriate graphical representation.
+* Visualization (**fr.** *Visualisation*) - Visualizations are spatial representation of indicators in visual (textual or graphical) form. They are designed to transform data into actionable insight which can be easily perceived and interpreted.
 * Panel (**fr.** *Panneau*)
 * Screen / Frame support (**fr.** *Ecran*) 
    * Panel versus Screen - panneau correspondant à un écran ou une partie d'écran
