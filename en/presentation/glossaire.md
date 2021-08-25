@@ -33,7 +33,7 @@
     * Perception
     * Comprehension
     * Projection
-* **Sensemaking** is the process of creating situational awareness and understanding to support decision making (Klein et al., 2007)
+* **Sensemaking** - According to Klein et al.(2007), sensemaking is the process of creating situational awareness and understanding to support decision making. Aimed at interpreting and understanding events, this deliberate effort is usually triggered by often unexpected changes that lead us to question the previous understanding. Consequently, it aims at reorganizing its understanding, at structuring disjointed, uncertain, incoherent or even contradictory data, even if it means excluding available information from the field of attention or introducing new ones. According to (Weick, 1995), the objective is then not the accuracy of the understanding, which is generally unattainable, but its plausibility and coherence.
 * **Data Frames** - conceptual frame of reference - cognitive schema. According to Klein, the purpose of the frame is to 
 1. define the elements of the situation 
 2. describe the importance of these elements, 
