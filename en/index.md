@@ -15,7 +15,7 @@ A facilitator's guide under construction
 
 The concepts on which we rely
 * [Some references in the literature](presentation/)
-* [Draft glossary](presentation/glossaire.md)
+* [Glossary of the used and proposed concepts](presentation/glossaire.md)
 
  * [Description of the tools](outil/outils.md)
 

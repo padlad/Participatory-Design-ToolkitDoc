@@ -18,7 +18,7 @@ Les visualisation sont des rendus spatiaux de manière textuelle ou graphique d'
 * Ecran (**en.** *Screen / Frame support*) 
    * Pannel versus Screen - panneau correspondant à un écran ou une partie d'écran
 
-# Actvités et états cognitifs liés à l'apprentissage humain
+# Actvités et états cognitifs liés à l'activité analytique
 * **Conscience de la situation** (en. Situational awareness) consiste à connaître ce qui se passe dans l'environnement et à évaluer ses implications pour le présent et l'avenir (Endsley, 1995)
   * *La conscience de la situation est la perception des éléments d’un environnement dans un volume de temps et d’espace, la compréhension de leur signification et la projection de leur état dans un futur proche*
   

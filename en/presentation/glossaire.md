@@ -18,7 +18,7 @@
 * Screen / Frame support (**fr.** *Ecran*) 
    * Panel versus Screen - panneau correspondant à un écran ou une partie d'écran
 
-# Cognitive activities and states related to learning
+# Analyst's cognitive states and activities 
 * **Awareness** : One of the best-known definitions for awareness is provided by <sup>[Dourish and Belloti (1992)](#Dourish1992)</sup>: awareness is an understanding of the activities of others, which provides a context for your own activity. <sup>[Gutwin and Greenberg (1999)](#Gutwin1999)</sup> state that awareness:
   > * Is knowledge about a state of the work environment in a limited portion of time and space.
   > * Provides knowledge about changes in that environment.
