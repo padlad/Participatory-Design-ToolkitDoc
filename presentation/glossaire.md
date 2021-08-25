@@ -46,3 +46,11 @@ Par conséquent, il vise à « remettre de l’ordre » dans sa compréhension, 
 * Conception participative
 * Espace de conception : “l'univers de tous les choix de conception possibles”
 
+# References
+(http://edutechwiki.unige.ch/en/Awareness)
+ 
+* <a name="Dourish1992"/> Dourish, P. & Bellotti. V. (1992). Awareness and coordination in shared workspaces. In J. Turner & R. Kraut (Eds.), Proceedings of ACM CSCW'92 Conference on Computer Supported Cooperative Work, 107-114, Toronto, Canada.
+* <a name="Endsley1995"/> Endsley, M. R. (1995). Measurement of situation awareness in dynamic systems. Human factors, 37(1), 65-84.
+* <a name="Gutwin1999"/>Gutwin, C. & Greenberg, S. (1999). A framework of awareness for small groups in shared workspace groupware. (Technical Report 99-1), Department of Computer Science, University of Saskatchewan, Canada.
+* <a name="Klein2007"/>Klein, G., J. K. Phillips, et al. (2007). A data/frame theory of sensemaking. In R. R. Hoffman (Ed.), Expertise out of context: Proc. of the 6th Int. Conf. on Naturalistic Decision Making, Mahwah, NJ: Lawrence Erlbaum & Associates
+* <a name="Weick1995"/>Weick, K. E. (1995). Sensemaking in Organizations, Thousands Oaks, CA: Sage.
