@@ -8,9 +8,8 @@
 # Learning
 * Learning - According to Cedefop (*European Centre for the Development of Vocational Training*), learning can be defined as a process by which an individual assimilates information, ideas and values and thus acquires knowledge, know-how, skills and/or competences. Learning occurs through personal reflection, reconstruction and social interaction. It may take place in formal, non-formal or informal settings.
 
-* Learner - we prefer to use the term learner, as we do not prejudge whether the TBA is for students, high school students, college students, continuing education professionals, returnees, self-starters, etc.
+* Learner - A learner is typically a person engaged in a learning process. We do not prejudge whether the TBA is for pupils, high school students, college students, vocational trainers, people in retraining, autodidacts... We thus prefer to use the term learner to student since the latter is primarily a person enrolled in a school or other educational institution. Learners can learn without teachers, but students are only students when they have teachers.
 
-A learner is someone who is learning about a particular subject or how to do something.
 
 # Dashboard
 * Learning Analytics Dashboard (**fr.** *Tableau de bord d'apprentissage*) Learning analytics dashboards are graphical systems designed to support the exploratory or decision-making process of learning analysis. They incorporate graphical representation of indicators related to specific aspects of interest of learning. They also integrate interaction features that accompany to the user/analyst during the different phases of data exploration, situation investigation and even decision making. Moreover, dashboards must be adaptive and contextual to allow the users to compose on the fly relevant information and to generate appropriate displays at the appropriate moment in the course of the educational situation(s)".
