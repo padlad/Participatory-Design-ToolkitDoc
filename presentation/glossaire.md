@@ -6,6 +6,7 @@
 </div>
 
 # Apprentissage humain
+* Apprentissage _ selon le Cedefop (*Centre Européen pour le développement de la formation professionnelle*), l'apprentissage est le processus dans lequel un individu assimile de l’information, des idées et des valeurs et acquiert ainsi des savoirs, savoirfaire, aptitudes et/ou compétences. L’apprentissage s’effectue par la réflexion personnelle, la reconstruction ainsi que l’interaction sociale. l’apprentissage peut se dérouler dans un contexte formel, non formel ou informel.
 * Apprenant - nous utilisons de préférence le terme apprenant, puisque nous ne préjugeons pas si le TBA concerne des élèves, des collégiens, des lycéens, des étudiants, des professionnels en formation continue, des personnes en reconversion, des autodidactes ...
 
 # Tableaux de bord
