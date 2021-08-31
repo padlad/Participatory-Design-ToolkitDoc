@@ -20,20 +20,24 @@
    * Panel versus Screen - panneau correspondant à un écran ou une partie d'écran
 
 # Analyst's cognitive states and activities 
-* **Awareness** : One of the best-known definitions for awareness is provided by <sup>[Dourish and Belloti (1992)](#Dourish1992)</sup>: awareness is an understanding of the activities of others, which provides a context for your own activity. <sup>[Gutwin and Greenberg (1999)](#Gutwin1999)</sup> state that awareness:
+### Awareness
+One of the best-known definitions for awareness is provided by <sup>[Dourish and Belloti (1992)](#Dourish1992)</sup>: awareness is an understanding of the activities of others, which provides a context for your own activity. <sup>[Gutwin and Greenberg (1999)](#Gutwin1999)</sup> state that awareness:
   > * Is knowledge about a state of the work environment in a limited portion of time and space.
   > * Provides knowledge about changes in that environment.
   > * Is maintained by all the interactions between the team-mates and the environment.
   > * Is a part of an activity (completing a task, working on something). Maintaining awareness is not the purpose of an activity. Awareness is used to complete a task.
 
-* **Situational awareness** is knowing what is happening in the environment and assessing its implications for the present and future. According to <sup>[Endsley 1995](#Endsley1995)</sup>: 
-  > Situational awareness is the perception of the elements of an environment in a volume of time and space, the understanding of their meaning and the projection of their state into the near future*.
+### Situational awareness
+**Situational awareness** is knowing what is happening in the environment and assessing its implications for the present and future. According to <sup>[Endsley 1995](#Endsley1995)</sup>: 
+  > Situational awareness is the perception of the elements of an environment in a volume of time and space, the understanding of their meaning and the projection of their state into the near future.
   
   <img src="../../figs/sa_fr.png" alt="Situational awareness" width="400"/>
-    * Perception
-    * Comprehension
-    * Projection
-* **Sensemaking** - According to <sup>[Klein et al.(2007)](#Klein2007)</sup>, sensemaking is the process of creating situational awareness and understanding to support decision making. Aimed at interpreting and understanding events, this deliberate effort is usually triggered by often unexpected changes that lead us to question the previous understanding. Consequently, it aims at reorganizing its understanding, at structuring disjointed, uncertain, incoherent or even contradictory data, even if it means excluding available information from the field of attention or introducing new ones. According to <sup>[Weick (1995)](#Weick1995)</sup>, the objective is then not the accuracy of the understanding, which is generally unattainable, but its plausibility and coherence.
+  * Perception
+  * Comprehension
+  * Projection
+
+### Sensemaking
+According to <sup>[Klein et al.(2007)](#Klein2007)</sup>, sensemaking is the process of creating situational awareness and understanding to support decision making. Aimed at interpreting and understanding events, this deliberate effort is usually triggered by often unexpected changes that lead us to question the previous understanding. Consequently, it aims at reorganizing its understanding, at structuring disjointed, uncertain, incoherent or even contradictory data, even if it means excluding available information from the field of attention or introducing new ones. According to <sup>[Weick (1995)](#Weick1995)</sup>, the objective is then not the accuracy of the understanding, which is generally unattainable, but its plausibility and coherence.
 * **Data Frames** - conceptual frame of reference - cognitive schema. According to Klein, the purpose of the frame is to 
 1. define the elements of the situation 
 2. describe the importance of these elements, 
